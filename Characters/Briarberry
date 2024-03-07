@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Town: Character Wiki</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #222; /* Darkened background color */
+            color: #fff; /* Text color */
+            text-align: center;
+        }
+
+        h1 {
+            text-align: center;
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            font-size: 28px;
+        }
+
+        /* Style the section headings */
+        h2 {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            font-size: 25px;
+        }
+
+        nav {
+            background-color: #333; /* Dark background */
+            padding: 10px;
+            text-align: center; /* Center-align the links */
+        }
+
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        nav ul li {
+            display: block; /* Display list items as blocks */
+            margin-bottom: 10px; /* Add some space between items */
+        }
+
+        nav ul li a {
+            display: block;
+            padding: 10px;
+            text-decoration: none;
+            color: orange; /* Orange color */
+        }
+
+        main {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            padding: 20px;
+        }
+
+        .character {
+            background-color: #444; /* Darkened character background color */
+            border: 1px solid #333; /* Darkened border color */
+            border-radius: 5px;
+            padding: 20px;
+            margin: 10px;
+            width: 300px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Briarberry</h1>
+    </header>
+    
+    <main>
+        <section class="character">
+            <h2>Briarberry</h2>
+            <img src="../Images/Briarberry_Headshot.png" alt="Briarberry" width="200">
+            <p>Information</p>
+        </section>
+    </main>
+  <h2>Description</h2>
+  <p>
+      <img src="../Images/Briarberry_Ref_Sheet.png" alt="TBA" width="400"><br>
+      Text
+  </p>
+  <h2>Lore</h2>
+  <p>Briarberry was once a normal she cat, a bit naive about the ways of the world, she had a brother and mate she loved with all of her heart. The change occured when Fallowflight her brother Silentflames mate went missing, determined to find a way to rescue her she pleaded to anyone to help her return. Unfortunately for her the dark forest heard this call and made a deal with her, they'd help Fallowflight get home all she had to do was hypnotize her clanmates. But like all deals with the devil this one had dire consequences, quickly the other dark forest cats all perished, she was alone. At their mercy. She was found by Spiderpaw, Alone and vulnerable she listened to what he said, and the dark forest enjoyed his ideas on whom to murder, every night for days she was forced to murder her clanmates, her body merely a puppet to dark forest cats. Eventually a few clanmates remained, she wanted to live for her mate Tinystorm,. She HAD to live for her mate Tinystorm, and thus she turned on Spiderpaw quickly convincing the clan to take her side and murder him but not before he tore up her neck with his claws.</p>
+  <h2>Rounds featured in</h2>
+  <h3>Round 4 (OLD)</h3>
+  <p>Briarberry was featured in Round 4 (OLD), where she was a <b>Hypnotist.</b> The rest of the mafia died immediately, leaving her solo. However, she managed to pull off the win with the help of that god damn simp of a cat.</p>
+    <nav>
+        <ul>
+            <li><a href="../index.html">Back</a></li>
+        </ul>
+    </nav>
+</body>
+</html>
